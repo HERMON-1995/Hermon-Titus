@@ -1,1 +1,50 @@
-
+#navbar header {
+    font-size: 90px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+  }
+  .nav-link {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 20;
+  }
+  
+  hr {
+    width: 200px;
+    margin-left: 0;
+  }
+  @media only screen and (max-width: 1500px) {
+  body {
+        background-color: lightblue; 
+      }
+  }
+  .main-section header {
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+  }
+  #How_to_learn h3{
+  font-family: monospace;
+  }
+  p {
+    font-size: 25px;
+  }
+  .vertical_line {
+    height: 235px;
+    border-right: 2px solid blue;
+    margin-right: 30px;
+  }
+  .float {
+    float: left;
+  }
+  #Introduction header {
+         margin-top: 33;
+  }
+   .main-section li {
+    font-size: 20px;
+   }
+   .main-section code {
+    font-size: 15px;
+   }
